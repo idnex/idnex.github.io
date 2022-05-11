@@ -6,6 +6,7 @@ copyright = "© Athul"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+publishDir = "docs"
 [params]
 	mode="auto"
 	useCDN=false

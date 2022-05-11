@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on IDneX</title>
-    <link>http://idnex.github.io/tags/</link>
-    <description>Recent content in Tags on IDneX</description>
+    <title>Tags on Archie</title>
+    <link>https://idnex.github.io/tags/</link>
+    <description>Recent content in Tags on Archie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© IDneX</copyright>
-    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://idnex.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Athul</copyright>
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://idnex.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>http://idnex.github.io/tags/blog/</link>
+      <link>https://idnex.github.io/tags/blog/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://idnex.github.io/tags/blog/</guid>
+      <guid>https://idnex.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>myself</title>
-      <link>http://idnex.github.io/tags/myself/</link>
+      <link>https://idnex.github.io/tags/myself/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://idnex.github.io/tags/myself/</guid>
+      <guid>https://idnex.github.io/tags/myself/</guid>
       <description></description>
     </item>
     
