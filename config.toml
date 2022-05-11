@@ -4,6 +4,7 @@ title = "IDneX"
 theme="archie"
 copyright = "© IDneX"
 # Code Highlight
+publishDir = "docs"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
